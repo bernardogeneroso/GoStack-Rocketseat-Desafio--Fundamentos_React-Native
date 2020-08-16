@@ -1,0 +1,28 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "title": "Cadeira Gaming Noblechairs HERO Black Edition",
+      "image_url": "https://d3ift91kaax4b9.cloudfront.net/media/catalog/product/cache/eb51c2c13a771900639634451ef25d5a/c/a/cadeira_gaming_noblechairs_hero_black_edition_prize.jpg",
+      "price": 449.90
+    },
+    {
+      "id": "2",
+      "title": "Cadeira Gaming Noblechairs EPIC PU Leather Preta/Vermelha",
+      "image_url": "https://d3ift91kaax4b9.cloudfront.net/media/catalog/product/cache/eb51c2c13a771900639634451ef25d5a/c/a/cadeira_gaming_noblechairs_epic_pu_leather_preta-vermelha_prize.jpg",
+      "price": 339.90
+    },
+    {
+      "id": "3",
+      "title": "Cadeira Gaming Drift DR500 Preta/Verde",
+      "image_url": "https://d3ift91kaax4b9.cloudfront.net/media/catalog/product/cache/eb51c2c13a771900639634451ef25d5a/c/a/cadeira_gaming_drift_dr500_preta_verde-5.jpg",
+      "price": 249.90
+    },
+    {
+      "id": "4",
+      "title": "Cadeira de Escritório Offy Ryza Preta",
+      "image_url": "https://d3ift91kaax4b9.cloudfront.net/media/catalog/product/cache/eb51c2c13a771900639634451ef25d5a/o/f/offy_ryza_3.jpg",
+      "price": 69.90
+    }
+  ]
+}
